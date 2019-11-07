@@ -1,0 +1,39 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "My Example Feed",
+	"home_page_url": "https://example.org/",
+   "feed_url": "https://example.org/feed.json",
+   "description": "An example of a JSON feed (Better RSS)",
+   "user_comment": "A description of the purpose of the feed. This is for the use of people looking at the raw JSON, and should be ignored by feed readers.",
+   "next_url": "https://example.org/feed/page#2",
+   "icon": "https://example.org/logo512.png",
+   "favicon": "https://example.org/logo192.org",
+   "author": {
+      "name": "Bradley Pitts",
+      "url": "www.bradley-pitts.me",
+      "avatar": "https://example.org/booris_512.png"
+   },
+   "hubs": [
+      {
+         "type": "",
+         "url": ""
+      },
+      {
+         "type": "",
+         "url": ""
+      }
+   ],
+   "expired": false,
+   "items": [
+		{
+			"id": "2",
+			"content_text": "This is a second item.",
+			"url": "https://example.org/second-item"
+		},
+		{
+			"id": "1",
+			"content_html": "<p>Hello, world!</p>",
+			"url": "https://example.org/initial-post"
+		}
+	]
+}

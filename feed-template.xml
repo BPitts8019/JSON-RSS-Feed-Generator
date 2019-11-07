@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8">
+<rss version="2.0">
+   <channel>
+      <title>Tinkermut - Video Cast</title>
+      <description>http://</description>
+      <language>en-us</language>
+      <image>
+         <title></title>
+         <link></link>
+         <url></url>
+         <width></width>
+         <height></height>
+      </image>
+      <item>
+         <title></title>
+         <pubDate></pubDate>
+         <link></link>
+         <description><![CDATA[]]></description>
+         <author></author>
+         <comments></comments>
+         <category>technology</category>
+         <enclosure url="" length="" type=""></enclosure>
+      </item>
+   </channel>
+</rss>
